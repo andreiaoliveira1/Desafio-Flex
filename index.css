@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    
+    text-align: center;
+    font-family: 'Moon Dance', cursive;
+    text-shadow: 8px 20px 8px black;
+    color:aqua;
+    font-weight: bolder;
+    font-size: 80px;
+    margin: 5px;
+        
+}
+
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-cartoon-restaurant-chef-recruitment-design-poster-vector-background-image_159612.jpg);
+    background-attachment:fixed;
+   
+    margin: 10px;
+}
+
+
+.elemento {
+    width: 500px;
+    height: 900px;
+    background-color: white rgb(0, 0, 0);
+    background:linear-gradient(77deg, transparente, aquamarine, blue);
+    border: 5px ridge aquamarine;
+    padding: 50px;
+    margin: 5px;
+    color:maroon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: justify;
+    
+    
+    
+    
+}
+
+.container {
+    display: flex;
+   
+    
+    
+}
+
+footer {
+    font-style: normal;
+    font-weight: bold;
+    font-size:130%;
+    color: black;
+    
+    
+}
+
+
